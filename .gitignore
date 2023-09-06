@@ -19,8 +19,12 @@ lib64/
 parts/
 sdist/
 var/
+**/data**
+**/**.csv
+**/**.xlsx
 wheels/
 share/python-wheels/
+Ineuron_Assignments/
 *.egg-info/
 .installed.cfg
 *.egg
