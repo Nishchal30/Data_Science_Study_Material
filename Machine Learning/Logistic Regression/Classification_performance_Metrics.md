@@ -24,15 +24,10 @@ Value (y^)
 and we have the predicted and actual y values as:
 
 actual    |   predicted
-/
   0       |      1
-/
   1       |      0
-/
   1       |      1
-/
   0       |      0
-/
   1       |      0
 
 
