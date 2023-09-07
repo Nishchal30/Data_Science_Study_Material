@@ -16,6 +16,7 @@ we have 2 x 2 matrix as given below,
 1 | 1      |     1
 ----------------------
 0 | 2      |     1
+----------------------
 
 Predicted
 Value (y^)
@@ -23,10 +24,15 @@ Value (y^)
 and we have the predicted and actual y values as:
 
 actual    |   predicted
+/
   0       |      1
+/
   1       |      0
+/
   1       |      1
+/
   0       |      0
+/
   1       |      0
 
 
@@ -37,6 +43,7 @@ Now in 1st row we have actual as 0 & predicted as 1 so we will update the count 
 1 | TP     |     FP
 ----------------------
 0 | FN     |     TN
+----------------------
 
 Predicted
 Value (y^)
@@ -75,6 +82,7 @@ Precision = TP / (TP + FP)
 1 | TP     |     FP
 ----------------------
 0 | FN     |     TN
+-----------------------
 
 Predicted
 Value (y^)
