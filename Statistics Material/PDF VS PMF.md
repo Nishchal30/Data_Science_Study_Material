@@ -34,5 +34,8 @@ p(x <= 4) = 2/3
 
 Cummulative means the sum, Hence CDF will be the sum of previous probabilities before that point.
 
-In a dice rolling if we want to find CDF of p(x <= 2)
-then it would be 
+![Alt text](image.png)
+
+
+### **Relation between PDF & CDF**
+
